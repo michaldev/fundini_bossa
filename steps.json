@@ -1,0 +1,19 @@
+[
+  {
+    "type": "open",
+    "name": "Bossa",
+    "url": "https://online.bossa.pl/bossaapp/login"
+  },
+  {
+    "type": "go_to",
+    "name": "Historia papierów"
+  },
+  {
+    "type": "select",
+    "name": "Eksportuj do CSV"
+  },
+  {
+    "type": "click",
+    "name": "Wykonaj"
+  }
+]
